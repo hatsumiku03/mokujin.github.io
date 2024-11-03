@@ -1,0 +1,1 @@
+// Start to write the script for get random character

@@ -10,3 +10,5 @@ I leave here the mod:
   ```https://tekkenmods.com/mod/4897/tekken-8-mokujin-for-all-characters```
 
 I hope this webpage could be helpful if someone uses it for play with mokujin :3
+
+![Tekken 8 logo](images/tekken8logo.png)

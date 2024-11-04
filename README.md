@@ -13,3 +13,10 @@ I leave here the mod:
 I hope this webpage could be helpful if someone uses it for play with mokujin :3
 
 ![Tekken 8 logo](images/tekken8logo.png)
+
+Credits to
+    * @fertexhid - The creatos of the mods
+    * Evil Banana 202 on youtube - I get the audios of the character by him :x
+
+## I'm working in this
+I hope the web site will be ready for Christmas xD

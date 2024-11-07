@@ -46,4 +46,4 @@ function showRandomCharacterXD() {
     const characterSound = document.getElementById('ss'); 
     characterSound.src = randomCharacterPick.audio; 
     characterSound.play(); 
-}
+}   
